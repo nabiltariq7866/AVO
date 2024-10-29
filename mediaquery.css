@@ -247,6 +247,9 @@
     padding: 0 !important;
     width: 100% !important;
   }
+  .img-wrap {
+    height: 850px !important;
+  }
   body .f2 {
     margin-top: 0 !important;
   }
